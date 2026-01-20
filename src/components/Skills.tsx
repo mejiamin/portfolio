@@ -29,7 +29,7 @@ const skillsList: SkillTypes = [
     color: 'text-yellow-500',
   },
   {
-    title: 'React.js',
+    title: 'React',
     img: <FaReact />,
     percent: 75,
     color: 'text-cyan-700',
