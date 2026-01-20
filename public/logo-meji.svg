@@ -1,0 +1,53 @@
+<svg viewBox="10 0 190 80" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- M -->
+  <g transform="translate(0, 0)">
+    <polygon points="10,70 10,20 20,10 30,10 40,20 50,10 60,10 70,20 70,70 60,80 50,80 40,70 30,80 20,80 10,70" fill="#7d8c90" stroke="#333" stroke-width=".9" />
+    <polygon points="50,70 50,40 40,60 30,40 30,70 20,70 20,20 30,20 40,40 50,20 60,20 60,70" fill="#274046" stroke="none" stroke-width=".9" />
+    <polygon points="20,10 30,0 40,0 50,10 40,20 30,10" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <polygon points="70,70 70,20 60,10 50,10 60,0 70,0 80,10 80,60" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <line x1="30" y1="10" x2="40" y2="0" stroke="#333"/>
+    <line x1="60" y1="10" x2="70" y2="0" stroke="#333"/>
+    <line x1="70" y1="20" x2="80" y2="10" stroke="#333"/>
+  </g>
+  
+
+  <!-- E -->
+  <g transform="translate(-10, 0)">
+    <polygon points="80,70 80,20 90,10 120,10 130,20 130,30 120,40 120,50 130,60 130,70 120,80 90,80" fill="#7d8c90" stroke="#333" stroke-width=".9" />
+    <polygon points="90,70 90,20 120,20 120,30 100,30 100,40 110,40 110,50 100,50 100,60 120,60 120,70" fill="#274046" stroke="none" stroke-width=".9" />
+    <polygon points="130,30 130,20 120,10 90,10 100,0 130,0 140,10 140,20" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <polygon points="130,70 130,60 120,50 120,40 130,30 130,40 140,50 140,60" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <line x1="120" y1="10" x2="130" y2="0" stroke="#333"/>
+    <line x1="130" y1="20" x2="140" y2="10" stroke="#333"/>
+    <line x1="120" y1="50" x2="130" y2="40" stroke="#333"/>
+    <line x1="130" y1="60" x2="140" y2="50" stroke="#333"/>
+  </g>
+
+
+  <!-- J -->
+  <g transform="translate(-20, 0)">
+    <polygon points="150,80 140,70 140,60 150,50 150,20 160,10 170,10 180,20 180,60 160,80" fill="#7d8c90" stroke="#333" stroke-width=".9" />
+    <polygon points="170,60 160,70 150,70 150,60 155,60 160,55 160,20 170,20" fill="#274046" stroke="none" stroke-width=".9" />
+    <polygon points="180,60 180,20 170,10 160,10 170,0 180,0 190,10 190,50" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <line x1="170" y1="10" x2="180" y2="0" stroke="#333"/>
+    <line x1="180" y1="20" x2="190" y2="10" stroke="#333"/>
+  </g>
+
+
+  <!-- i -->
+  <g transform="translate(-30, 0)">
+    <polygon points="190,70 200,80 210,80 220,70 220,20 210,10 200,10 190,20" fill="#7d8c90" stroke="#333" stroke-width=".9" />
+    <polygon points="200,70 200,20 210,20 210,70" fill="#274046" stroke="none" stroke-width=".9" />
+    <polygon points="220,70 220,20 210,10 200,10 210,0 220,0 230,10 230,60" fill="#939fa2
+" stroke="#333" stroke-width=".9" />
+    <line x1="210" y1="10" x2="220" y2="0" stroke="#333"/>
+    <line x1="220" y1="20" x2="230" y2="10" stroke="#333"/>
+  </g>
+
+</svg>
