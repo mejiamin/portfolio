@@ -6,7 +6,7 @@ import { easeQuadInOut } from 'd3-ease'
 import { motion } from 'framer-motion'
 import { CircularProgressbarWithChildren } from 'react-circular-progressbar'
 import { FaGitAlt, FaJs, FaReact } from 'react-icons/fa'
-import { SiCss3, SiHtml5, SiNextdotjs, SiShadcnui, SiTailwindcss, SiTsnode, SiTypescript } from 'react-icons/si'
+import { SiCss3, SiHtml5, SiNextdotjs, SiRedux, SiShadcnui, SiTailwindcss, SiTypescript } from 'react-icons/si'
 import { TbBrandFramerMotion } from 'react-icons/tb'
 
 const skillsList: SkillTypes = [
@@ -33,6 +33,12 @@ const skillsList: SkillTypes = [
     img: <FaReact />,
     percent: 75,
     color: 'text-cyan-700',
+  },
+  {
+    title: 'Redux',
+    img: <SiRedux />,
+    percent: 30,
+    color: 'text-[#764abc]',
   },
   {
     title: 'Next.js',
